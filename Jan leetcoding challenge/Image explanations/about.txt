@@ -1,0 +1,1 @@
+This folder consists of the image explanations of the problems stated as the file name.
